@@ -30,11 +30,11 @@ the app is made following [The Complete React Native + Hooks Course [2020 Editio
   baseURL: ' http://b82c96ac682a.ngrok.io';
   ```
 
-  with the actual url you copied from terminal
+  with the actual url you copied from terminal and save
 
 Now you can go to localhost:3000 and you should see the success page from json-server
 
-![alt text](https://github.com/agumusay/react-native-blog/Success-json-Server.png 'Json-Server Success Page')
+![alt text](https://github.com/agumusay/react-native-blog/blob/master/success.png 'Json-Server Success Page')
 
 - Test On your mobile device
 
@@ -44,7 +44,3 @@ Now you can go to localhost:3000 and you should see the success page from json-s
   2. Scan the QR code showed up on the browser earlier
   3. if you get en error change Lan To Tunnel
   4. if everything went well you should be able to use the app now
-
-```
-
-```
