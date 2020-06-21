@@ -1,0 +1,29 @@
+{
+  "blogposts": [
+    {
+      "id": 1,
+      "title": "API POST",
+      "content": "content for my post"
+    },
+    {
+      "title": "New Blogpost to server",
+      "content": "Wuhuuuu !",
+      "id": 2
+    },
+    {
+      "title": "Updated blog post #3",
+      "content": "Updated content kqhdkahdoqd",
+      "id": 3
+    },
+    {
+      "title": "New post edited ",
+      "content": "Some other content",
+      "id": 4
+    },
+    {
+      "title": "New test ",
+      "content": "Test the server and client ",
+      "id": 5
+    }
+  ]
+}
